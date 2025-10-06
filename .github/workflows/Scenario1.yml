@@ -70,7 +70,7 @@ jobs:
 
       # Run Params(optional) should be JSON string form example: '{"username": "John Todd", "password": "bxW&=UVw"}'
 
-      #runParam: # optional
+      #runParam: {"Wait Time": "30"}
 
       # Proxy Host (optional)
 
